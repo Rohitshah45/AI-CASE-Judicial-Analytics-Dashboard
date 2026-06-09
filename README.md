@@ -90,11 +90,11 @@ Add dashboard screenshots inside the `screenshots` folder and reference them her
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard_View.png)
 
 ### Data Model
 
-![Data Model](screenshots/model_view.png)
+![Data Model](screenshots/Model_View.png)
 
 ---
 
